@@ -81,7 +81,7 @@ function App() {
 
   useEffect(() => {
     loadNewWord();
-  }, []);
+  });
 
   if (loading) {
     return <div className="App">Loading...</div>;
