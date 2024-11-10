@@ -70,7 +70,8 @@ function App() {
   };
 
   const getAnkiLink = () => {
-    const encodedImage = encodeURIComponent(image);
+    const imageTag = `<img src="${image}" alt="${word}">`;
+    const encodedImage = encodeURIComponent(imageTag);
     const encodedDefinitions = encodeURIComponent(
       formatDefinitionsForAnki(definitions)
     );
