@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anki-gen/static/css/main.db1721c4.css",
-    "main.js": "/anki-gen/static/js/main.f498eeaa.js",
+    "main.js": "/anki-gen/static/js/main.9141024e.js",
     "static/js/453.a2f39942.chunk.js": "/anki-gen/static/js/453.a2f39942.chunk.js",
     "index.html": "/anki-gen/index.html",
     "main.db1721c4.css.map": "/anki-gen/static/css/main.db1721c4.css.map",
-    "main.f498eeaa.js.map": "/anki-gen/static/js/main.f498eeaa.js.map",
+    "main.9141024e.js.map": "/anki-gen/static/js/main.9141024e.js.map",
     "453.a2f39942.chunk.js.map": "/anki-gen/static/js/453.a2f39942.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db1721c4.css",
-    "static/js/main.f498eeaa.js"
+    "static/js/main.9141024e.js"
   ]
 }
