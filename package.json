@@ -2,7 +2,7 @@
   "name": "anki-gen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/REPO_NAME",
+  "homepage": "https://smith-kyle.github.io/anki-gen",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
