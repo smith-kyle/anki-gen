@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/REPO_NAME/static/css/main.db1721c4.css",
-    "main.js": "/REPO_NAME/static/js/main.c304413e.js",
-    "static/js/453.a2f39942.chunk.js": "/REPO_NAME/static/js/453.a2f39942.chunk.js",
-    "index.html": "/REPO_NAME/index.html",
-    "main.db1721c4.css.map": "/REPO_NAME/static/css/main.db1721c4.css.map",
-    "main.c304413e.js.map": "/REPO_NAME/static/js/main.c304413e.js.map",
-    "453.a2f39942.chunk.js.map": "/REPO_NAME/static/js/453.a2f39942.chunk.js.map"
+    "main.css": "/anki-gen/static/css/main.db1721c4.css",
+    "main.js": "/anki-gen/static/js/main.f498eeaa.js",
+    "static/js/453.a2f39942.chunk.js": "/anki-gen/static/js/453.a2f39942.chunk.js",
+    "index.html": "/anki-gen/index.html",
+    "main.db1721c4.css.map": "/anki-gen/static/css/main.db1721c4.css.map",
+    "main.f498eeaa.js.map": "/anki-gen/static/js/main.f498eeaa.js.map",
+    "453.a2f39942.chunk.js.map": "/anki-gen/static/js/453.a2f39942.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db1721c4.css",
-    "static/js/main.c304413e.js"
+    "static/js/main.f498eeaa.js"
   ]
 }
